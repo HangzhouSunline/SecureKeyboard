@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 s.name         = "SecureKeyboard"
-s.version      = "1.0.1"
+s.version      = "1.0.2"
 s.summary      = "SecureKeyboard"
 s.description  = <<-DESC
                密码键盘
